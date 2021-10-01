@@ -1,0 +1,9 @@
+[submodule "templatepp"]
+	path = templatepp
+	url = git@github.com:jordans1882/templatepp.git
+[submodule "templater"]
+	path = templater
+	url = git@github.com:jordans1882/templater.git
+[submodule "pytemplate"]
+	path = pytemplate
+	url = git@github.com:jordans1882/pytemplate.git
